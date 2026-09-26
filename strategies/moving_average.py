@@ -1,0 +1,1 @@
+from quantlab.strategies import moving_average_crossover
