@@ -1,1 +1,1 @@
-"""Strategy collection."""
+"""QuantLab strategy collection."""
